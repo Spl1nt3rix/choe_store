@@ -1,0 +1,4 @@
+﻿article,product_name,client_login,status_name,pickup_address,order_date,issue_date
+ORD-0001,Air Max 90,client,выдан,"Москва, ул. Примерная, 1",2026-10-07,2026-10-10
+ORD-0002,Ultraboost 22,petrova,в обработке,"Москва, ул. Центральная, 10",2026-10-10,
+ORD-0003,Classic Leather,client,новый,"Москва, ул. Примерная, 5",2026-10-12,

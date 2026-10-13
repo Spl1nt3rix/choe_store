@@ -1,0 +1,15 @@
+QWidget { background: #F5F6FA; color: #1F2430; font-family: "Segoe UI", Arial; font-size: 14px; }
+QLabel#pageTitle { font-size: 22px; font-weight: 700; }
+QLabel#cardTitle { font-size: 17px; font-weight: 700; color: #2D6CDF; }
+QLabel#muted { color: #6B7280; }
+QLabel#deliveryDate { font-size: 18px; font-weight: 700; color: #2E9E5B; }
+QWidget#loginCard, QFrame#orderCard { background: #FFFFFF; border: 1px solid #E1E4EA; border-radius: 10px; }
+QPushButton { background: #2D6CDF; color: white; border: none; border-radius: 6px; padding: 8px 16px; min-height: 20px; }
+QPushButton:hover { background: #2559BD; }
+QPushButton#secondaryButton { background: #E9ECF3; color: #1F2430; }
+QPushButton#secondaryButton:hover { background: #DDE2EC; }
+QLineEdit, QComboBox, QSpinBox, QDoubleSpinBox, QDateEdit { background: white; border: 1px solid #E1E4EA; border-radius: 4px; padding: 7px 10px; min-height: 20px; }
+QLineEdit:focus, QComboBox:focus { border: 1px solid #2D6CDF; }
+QTableWidget { background: white; border: 1px solid #E1E4EA; gridline-color: #E1E4EA; selection-background-color: #DCE8FF; selection-color: #1F2430; }
+QHeaderView::section { background: #EEF1F7; padding: 8px; border: none; font-weight: 600; }
+QScrollArea { border: none; background: transparent; }

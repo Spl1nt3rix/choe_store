@@ -1,0 +1,8 @@
+erDiagram
+  ROLES ||--o{ USERS : has
+  CATEGORIES ||--o{ PRODUCTS : classifies
+  MANUFACTURERS ||--o{ PRODUCTS : makes
+  SUPPLIERS ||--o{ PRODUCTS : supplies
+  USERS ||--o{ ORDERS : places
+  PRODUCTS ||--o{ ORDERS : contains
+  ORDER_STATUSES ||--o{ ORDERS : status

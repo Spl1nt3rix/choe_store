@@ -1,0 +1,4 @@
+PyQt6>=6.7
+psycopg2-binary>=2.9
+bcrypt>=4.1
+PyInstaller>=6.0
